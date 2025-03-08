@@ -8,8 +8,7 @@
 
 -----
 
-![profile count](https://komarev.com/ghpvc/?username=avinash201199&color=red)&nbsp;
-[![GitHub avinash201199](https://img.shields.io/github/followers/avinash201199?label=follow&style=social)](https://github.com/avinash201199)&nbsp;
+[![GitHub avinash201199](https://img.shields.io/github/followers/avinash201199?label=follow&style=social)](https://github.com/Yashraj0131/)&nbsp;
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp; Hello everyone,I'm engineering student. Love to code , exploring Data Science these days. I enjoy collaborating with people on works of similar interest. 
@@ -77,12 +76,9 @@
 <h1 align="center">Github Stats</h1>
 
 <div align="center">
-  
-[![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=avinash201199&theme=highcontrast)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
- </div>
 
-<img align="left" alt="Yash's Github Stats" src="https://github-readme-stats.vercel.app/api?username=avinash201199&&show_icons=true&theme=dark" width="50%" />
 <img alt="Top Languages used" src="https://github-readme-stats.vercel.app/api/top-langs/?username=avinash201199&layout=compact&theme=dark" width="46%" />
+
+</div>
 <br>
-<img src="https://activity-graph.herokuapp.com/graph?username=avinash201199&theme=xcode">
