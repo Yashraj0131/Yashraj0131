@@ -8,7 +8,7 @@
 
 -----
 
-[![GitHub avinash201199](https://img.shields.io/github/followers/avinash201199?label=follow&style=social)](https://github.com/Yashraj0131/)&nbsp;
+[![GitHub yashraj0131](https://img.shields.io/github/followers/avinash201199?label=follow&style=social)](https://github.com/Yashraj0131/)&nbsp;
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp; Hello everyone,I'm engineering student. Love to code , exploring Data Science these days. I enjoy collaborating with people on works of similar interest. 
